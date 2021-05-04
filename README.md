@@ -1,7 +1,4 @@
 # Hey, I'm Logic 👋
-<a href="http://wpa.qq.com/msgrd?v=3&uin=1620535041&site=qq&menu=yes">
-  <img align="left" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/tencentqq.svg" />
-</a>
 
 <br />
 <br />
