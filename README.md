@@ -1,9 +1,5 @@
 # Hey, I'm Logic 👋
 
-<br />
-<br />
-
-
 ## Interests
 - 🌐 Full stack development
 - 🔎 Game modding and reverse engineering
