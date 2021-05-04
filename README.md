@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @logic
+- 🌱 I’m currently learning C++
+- 📫 How to reach me on discord: Logic#1244
