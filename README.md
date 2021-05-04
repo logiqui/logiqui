@@ -16,7 +16,7 @@
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingPP&layout=compact" />
 
-![Lua#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=lua&labelColor=444)
+![Lua#](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&labelColor=444)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=444)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&labelColor=444)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&labelColor=444)
