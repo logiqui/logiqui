@@ -5,6 +5,9 @@
 - 🔎 Game modding and reverse engineering
 - 🧪 New technologies
 
+## Discord
+- 🥶 logic#3344
+
 ### Languages & Tools
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingPP&layout=compact" />
