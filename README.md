@@ -6,7 +6,7 @@
 - 🧪 New technologies
 
 ## Discord
-- 🥶 logic#3344
+- 🥶 @logiqui
 
 ### Languages & Tools
 
